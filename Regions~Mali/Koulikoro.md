@@ -40,11 +40,18 @@ markerFolder: ./Koulikoro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Koulikoro|Koulikoro]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Koulikoro.public|Koulikoro.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Koulikoro.internal|Koulikoro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Koulikoro.protect|Koulikoro.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Koulikoro.private|Koulikoro.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Koulikoro.personal|Koulikoro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Koulikoro.secret|Koulikoro.secret]] 
+
+### #is_/same_as :: [Koulikoro](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Koulikoro.md) 
+
+### #is_/same_as :: [Koulikoro.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Koulikoro.public.md) 
+
+### #is_/same_as :: [Koulikoro.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Koulikoro.internal.md) 
+
+### #is_/same_as :: [Koulikoro.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Koulikoro.protect.md) 
+
+### #is_/same_as :: [Koulikoro.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Koulikoro.private.md) 
+
+### #is_/same_as :: [Koulikoro.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Koulikoro.personal.md) 
+
+### #is_/same_as :: [Koulikoro.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Koulikoro.secret.md)
 

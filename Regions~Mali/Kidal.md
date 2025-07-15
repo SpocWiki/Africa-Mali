@@ -40,11 +40,18 @@ markerFolder: ./Kidal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Kidal|Kidal]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Kidal.public|Kidal.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Kidal.internal|Kidal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Kidal.protect|Kidal.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Kidal.private|Kidal.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Kidal.personal|Kidal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Kidal.secret|Kidal.secret]] 
+
+### #is_/same_as :: [Kidal](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.md) 
+
+### #is_/same_as :: [Kidal.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.public.md) 
+
+### #is_/same_as :: [Kidal.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.internal.md) 
+
+### #is_/same_as :: [Kidal.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.protect.md) 
+
+### #is_/same_as :: [Kidal.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.private.md) 
+
+### #is_/same_as :: [Kidal.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.personal.md) 
+
+### #is_/same_as :: [Kidal.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.secret.md)
 

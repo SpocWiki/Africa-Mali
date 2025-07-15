@@ -40,11 +40,18 @@ markerFolder: ./Kayes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Kayes|Kayes]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Kayes.public|Kayes.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Kayes.internal|Kayes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Kayes.protect|Kayes.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Kayes.private|Kayes.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Kayes.personal|Kayes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Kayes.secret|Kayes.secret]] 
+
+### #is_/same_as :: [Kayes](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kayes.md) 
+
+### #is_/same_as :: [Kayes.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kayes.public.md) 
+
+### #is_/same_as :: [Kayes.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kayes.internal.md) 
+
+### #is_/same_as :: [Kayes.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kayes.protect.md) 
+
+### #is_/same_as :: [Kayes.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kayes.private.md) 
+
+### #is_/same_as :: [Kayes.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kayes.personal.md) 
+
+### #is_/same_as :: [Kayes.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kayes.secret.md)
 

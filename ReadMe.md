@@ -131,10 +131,4 @@ Capital :: [[Bamako]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Mali|Mali]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Mali.internal|Mali.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Mali.protect|Mali.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Mali.private|Mali.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Mali.personal|Mali.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Mali.secret|Mali.secret]] 
+

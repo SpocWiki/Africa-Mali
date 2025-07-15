@@ -40,11 +40,18 @@ markerFolder: ./Sikasso/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Sikasso|Sikasso]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Sikasso.public|Sikasso.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Sikasso.internal|Sikasso.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Sikasso.protect|Sikasso.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Sikasso.private|Sikasso.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Sikasso.personal|Sikasso.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Sikasso.secret|Sikasso.secret]] 
+
+### #is_/same_as :: [Sikasso](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Sikasso.md) 
+
+### #is_/same_as :: [Sikasso.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Sikasso.public.md) 
+
+### #is_/same_as :: [Sikasso.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Sikasso.internal.md) 
+
+### #is_/same_as :: [Sikasso.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Sikasso.protect.md) 
+
+### #is_/same_as :: [Sikasso.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Sikasso.private.md) 
+
+### #is_/same_as :: [Sikasso.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Sikasso.personal.md) 
+
+### #is_/same_as :: [Sikasso.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Sikasso.secret.md)
 

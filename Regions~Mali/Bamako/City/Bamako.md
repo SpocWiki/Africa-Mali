@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12.65,-8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/City/Bamako|Bamako]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/City/Bamako.public|Bamako.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/City/Bamako.internal|Bamako.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/City/Bamako.protect|Bamako.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/City/Bamako.private|Bamako.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/City/Bamako.personal|Bamako.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/City/Bamako.secret|Bamako.secret]] 
+
+### #is_/same_as :: [Bamako](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.md) 
+
+### #is_/same_as :: [Bamako.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.public.md) 
+
+### #is_/same_as :: [Bamako.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.internal.md) 
+
+### #is_/same_as :: [Bamako.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.protect.md) 
+
+### #is_/same_as :: [Bamako.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.private.md) 
+
+### #is_/same_as :: [Bamako.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.personal.md) 
+
+### #is_/same_as :: [Bamako.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.secret.md)
+

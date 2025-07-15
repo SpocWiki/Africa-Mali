@@ -39,11 +39,18 @@ markerFolder: ./Gao/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Gao|Gao]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Gao.public|Gao.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Gao.internal|Gao.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Gao.protect|Gao.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Gao.private|Gao.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Gao.personal|Gao.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Gao.secret|Gao.secret]] 
+
+### #is_/same_as :: [Gao](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Gao.md) 
+
+### #is_/same_as :: [Gao.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Gao.public.md) 
+
+### #is_/same_as :: [Gao.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Gao.internal.md) 
+
+### #is_/same_as :: [Gao.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Gao.protect.md) 
+
+### #is_/same_as :: [Gao.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Gao.private.md) 
+
+### #is_/same_as :: [Gao.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Gao.personal.md) 
+
+### #is_/same_as :: [Gao.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Gao.secret.md)
 

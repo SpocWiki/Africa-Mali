@@ -40,11 +40,18 @@ markerFolder: ./Ségou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Ségou|Ségou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Ségou.public|Ségou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Ségou.internal|Ségou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Ségou.protect|Ségou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Ségou.private|Ségou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Ségou.personal|Ségou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Ségou.secret|Ségou.secret]] 
+
+### #is_/same_as :: [Ségou](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.md) 
+
+### #is_/same_as :: [Ségou.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.public.md) 
+
+### #is_/same_as :: [Ségou.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.internal.md) 
+
+### #is_/same_as :: [Ségou.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.protect.md) 
+
+### #is_/same_as :: [Ségou.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.private.md) 
+
+### #is_/same_as :: [Ségou.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.personal.md) 
+
+### #is_/same_as :: [Ségou.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.secret.md)
 

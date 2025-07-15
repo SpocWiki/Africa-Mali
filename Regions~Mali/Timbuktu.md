@@ -40,11 +40,18 @@ markerFolder: ./Timbuktu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mali/Counties/Timbuktu|Timbuktu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mali/Counties/Timbuktu.public|Timbuktu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mali/Counties/Timbuktu.internal|Timbuktu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mali/Counties/Timbuktu.protect|Timbuktu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mali/Counties/Timbuktu.private|Timbuktu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mali/Counties/Timbuktu.personal|Timbuktu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mali/Counties/Timbuktu.secret|Timbuktu.secret]] 
+
+### #is_/same_as :: [Timbuktu](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.md) 
+
+### #is_/same_as :: [Timbuktu.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.public.md) 
+
+### #is_/same_as :: [Timbuktu.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.internal.md) 
+
+### #is_/same_as :: [Timbuktu.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.protect.md) 
+
+### #is_/same_as :: [Timbuktu.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.private.md) 
+
+### #is_/same_as :: [Timbuktu.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.personal.md) 
+
+### #is_/same_as :: [Timbuktu.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.secret.md)
 
