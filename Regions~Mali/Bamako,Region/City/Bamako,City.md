@@ -37,19 +37,20 @@ maxZoom: 18
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Bamako,3703|WD~Bamako,3703]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bamako,City](Bamako,City.md) 
+### #is_/same_as :: [Bamako,City](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.md) 
 
-### #is_/same_as :: [Bamako.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.public.md) 
+### #is_/same_as :: [Bamako,City.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.public.md) 
 
-### #is_/same_as :: [Bamako.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.internal.md) 
+### #is_/same_as :: [Bamako,City.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.internal.md) 
 
-### #is_/same_as :: [Bamako.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.protect.md) 
+### #is_/same_as :: [Bamako,City.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.protect.md) 
 
-### #is_/same_as :: [Bamako.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.private.md) 
+### #is_/same_as :: [Bamako,City.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.private.md) 
 
-### #is_/same_as :: [Bamako.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.personal.md) 
+### #is_/same_as :: [Bamako,City.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.personal.md) 
 
-### #is_/same_as :: [Bamako.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako/City/Bamako.secret.md)
+### #is_/same_as :: [Bamako,City.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.secret.md)
 

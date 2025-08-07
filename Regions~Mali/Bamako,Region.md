@@ -41,17 +41,17 @@ markerFolder: ./Bamako/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bamako](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako.md) 
+### #is_/same_as :: [Bamako,Region](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region.md) 
 
-### #is_/same_as :: [Bamako.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako.public.md) 
+### #is_/same_as :: [Bamako,Region.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region.public.md) 
 
-### #is_/same_as :: [Bamako.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako.internal.md) 
+### #is_/same_as :: [Bamako,Region.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region.internal.md) 
 
-### #is_/same_as :: [Bamako.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako.protect.md) 
+### #is_/same_as :: [Bamako,Region.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region.protect.md) 
 
-### #is_/same_as :: [Bamako.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako.private.md) 
+### #is_/same_as :: [Bamako,Region.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region.private.md) 
 
-### #is_/same_as :: [Bamako.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako.personal.md) 
+### #is_/same_as :: [Bamako,Region.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region.personal.md) 
 
-### #is_/same_as :: [Bamako.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako.secret.md)
+### #is_/same_as :: [Bamako,Region.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region.secret.md)
 
