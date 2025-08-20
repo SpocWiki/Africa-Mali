@@ -1,36 +1,37 @@
 ---
 location:
-- 12.65
-- -8
+  - 12.65
+  - -8
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26962
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Mali
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Mali
-- Malí
-- مالي
-- 马里
-- Мали
-- the Republic of Mali
-- la República de Malí
+  - Mali
+  - Malí
+  - مالي
+  - 马里
+  - Мали
+  - the Republic of Mali
+  - la República de Malí
 Languages:
-- fr-ML
-- bm
+  - fr-ML
+  - bm
 ---
 
 
