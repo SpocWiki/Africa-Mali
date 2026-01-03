@@ -34,3 +34,19 @@ minZoom: 6
 > [Wikipedia](https://en.wikipedia.org/wiki/Timbuktu%20Cercle) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County|Tombouctou,County]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County.public|Tombouctou,County.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County.internal|Tombouctou,County.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County.protect|Tombouctou,County.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County.private|Tombouctou,County.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County.personal|Tombouctou,County.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County.secret|Tombouctou,County.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Mopti/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mopti](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti|Mopti]] 
 
-### #is_/same_as :: [Mopti.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.public|Mopti.public]] 
 
-### #is_/same_as :: [Mopti.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.internal|Mopti.internal]] 
 
-### #is_/same_as :: [Mopti.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.protect|Mopti.protect]] 
 
-### #is_/same_as :: [Mopti.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.private|Mopti.private]] 
 
-### #is_/same_as :: [Mopti.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.personal|Mopti.personal]] 
 
-### #is_/same_as :: [Mopti.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti.secret|Mopti.secret]] 
 

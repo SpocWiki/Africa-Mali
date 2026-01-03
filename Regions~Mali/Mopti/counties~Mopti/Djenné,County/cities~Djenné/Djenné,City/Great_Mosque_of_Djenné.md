@@ -41,3 +41,19 @@ inception: 1906-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Mosque%20of%20Djenn%C3%A9) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City/Great_Mosque_of_Djenné|Great_Mosque_of_Djenné]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City/Great_Mosque_of_Djenné.public|Great_Mosque_of_Djenné.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City/Great_Mosque_of_Djenné.internal|Great_Mosque_of_Djenné.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City/Great_Mosque_of_Djenné.protect|Great_Mosque_of_Djenné.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City/Great_Mosque_of_Djenné.private|Great_Mosque_of_Djenné.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City/Great_Mosque_of_Djenné.personal|Great_Mosque_of_Djenné.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City/Great_Mosque_of_Djenné.secret|Great_Mosque_of_Djenné.secret]] 
+

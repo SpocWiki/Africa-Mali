@@ -40,17 +40,17 @@ markerFolder: ./Kidal/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kidal](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal|Kidal]] 
 
-### #is_/same_as :: [Kidal.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.public|Kidal.public]] 
 
-### #is_/same_as :: [Kidal.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.internal|Kidal.internal]] 
 
-### #is_/same_as :: [Kidal.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.protect|Kidal.protect]] 
 
-### #is_/same_as :: [Kidal.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.private|Kidal.private]] 
 
-### #is_/same_as :: [Kidal.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.personal|Kidal.personal]] 
 
-### #is_/same_as :: [Kidal.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Kidal.secret|Kidal.secret]] 
 

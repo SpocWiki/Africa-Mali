@@ -53,3 +53,20 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Djenne-loc
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Djenn%C3%A9) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City|Djenné,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City.public|Djenné,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City.internal|Djenné,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City.protect|Djenné,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City.private|Djenné,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City.personal|Djenné,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Mopti/counties~Mopti/Djenné,County/cities~Djenné/Djenné,City.secret|Djenné,City.secret]] 
+

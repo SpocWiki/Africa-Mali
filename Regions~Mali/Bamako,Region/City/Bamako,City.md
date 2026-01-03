@@ -40,17 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bamako,City](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City|Bamako,City]] 
 
-### #is_/same_as :: [Bamako,City.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.public|Bamako,City.public]] 
 
-### #is_/same_as :: [Bamako,City.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.internal|Bamako,City.internal]] 
 
-### #is_/same_as :: [Bamako,City.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.protect|Bamako,City.protect]] 
 
-### #is_/same_as :: [Bamako,City.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.private|Bamako,City.private]] 
 
-### #is_/same_as :: [Bamako,City.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.personal|Bamako,City.personal]] 
 
-### #is_/same_as :: [Bamako,City.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Bamako,Region/City/Bamako,City.secret|Bamako,City.secret]] 
 

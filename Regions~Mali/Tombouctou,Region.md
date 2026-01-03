@@ -75,17 +75,17 @@ markerFile: [[Tombouctou,Region]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Timbuktu](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region|Tombouctou,Region]] 
 
-### #is_/same_as :: [Timbuktu.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region.public|Tombouctou,Region.public]] 
 
-### #is_/same_as :: [Timbuktu.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region.internal|Tombouctou,Region.internal]] 
 
-### #is_/same_as :: [Timbuktu.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region.protect|Tombouctou,Region.protect]] 
 
-### #is_/same_as :: [Timbuktu.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region.private|Tombouctou,Region.private]] 
 
-### #is_/same_as :: [Timbuktu.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region.personal|Tombouctou,Region.personal]] 
 
-### #is_/same_as :: [Timbuktu.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Timbuktu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region.secret|Tombouctou,Region.secret]] 
 

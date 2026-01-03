@@ -40,17 +40,17 @@ markerFolder: ./Ségou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ségou](/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou|Ségou]] 
 
-### #is_/same_as :: [Ségou.public](/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.public|Ségou.public]] 
 
-### #is_/same_as :: [Ségou.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.internal|Ségou.internal]] 
 
-### #is_/same_as :: [Ségou.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.protect|Ségou.protect]] 
 
-### #is_/same_as :: [Ségou.private](/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.private|Ségou.private]] 
 
-### #is_/same_as :: [Ségou.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.personal|Ségou.personal]] 
 
-### #is_/same_as :: [Ségou.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Ségou.secret|Ségou.secret]] 
 

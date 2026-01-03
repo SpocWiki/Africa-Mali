@@ -93,3 +93,19 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Timbuktu%2C%20Ma
 > [Wikipedia](https://en.wikipedia.org/wiki/Timbuktu) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County/cities~Tombouctou/Timbuktu,City|Timbuktu,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County/cities~Tombouctou/Timbuktu,City.public|Timbuktu,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County/cities~Tombouctou/Timbuktu,City.internal|Timbuktu,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County/cities~Tombouctou/Timbuktu,City.protect|Timbuktu,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County/cities~Tombouctou/Timbuktu,City.private|Timbuktu,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County/cities~Tombouctou/Timbuktu,City.personal|Timbuktu,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mali/Regions~Mali/Tombouctou,Region/counties~Timbuktu/Tombouctou,County/cities~Tombouctou/Timbuktu,City.secret|Timbuktu,City.secret]] 
+
