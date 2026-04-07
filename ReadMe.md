@@ -117,7 +117,7 @@ markerFolder: .//
 [Area-Land::1220190] 
 Continent :: [[Africa]]  
 [VehicleCode::RMM] 
-Capital :: [[Regions~Mali/Bamako,Region]]  
+Capital :: [[Regions~Mali/Bamako,Region|Bamako,Region]]  
 
 ![[Coat_of_arms_of_Mali.svg|350]] 
 

@@ -7,15 +7,15 @@ aliases:
   - ߖߍ߬ߣߍ߫
 has_id_wikidata: Q213507
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Fez,80985]]"
-  - "[[_Standards/WikiData/WD~Vitré,234704]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mopti_Region,214155]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~commune_of_Mali,1758856]]"
+  - "[[_Standards/WikiData/WD~Fez,80985|WD~Fez,80985]]"
+  - "[[_Standards/WikiData/WD~Vitré,234704|WD~Vitré,234704]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Mopti_Region,214155|WD~Mopti_Region,214155]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+instance_of: "[[_Standards/WikiData/WD~commune_of_Mali,1758856|WD~commune_of_Mali,1758856]]"
 coordinate_location: Point(-4.55 13.9)
-part_of: "[[_Standards/WikiData/WD~Old_Towns_of_Djenné,15278644]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-country: "[[_Standards/WikiData/WD~Mali,912]]"
+part_of: "[[_Standards/WikiData/WD~Old_Towns_of_Djenné,15278644|WD~Old_Towns_of_Djenné,15278644]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+country: "[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]"
 elevation_above_sea_level: 278
 area: 302
 Commons_category: Djenné
@@ -26,7 +26,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Djenne-loc
 
 # [[Djenné,City]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Djenné,213507]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Djenné,213507|WD~Djenné,213507]] 
 
 ## #has_/text_of_/abstract 
 

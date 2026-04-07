@@ -7,42 +7,42 @@ aliases:
 has_id_wikidata: Q9427
 demonym: Timbuctaniki
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Marrakesh,101625]]"
-  - "[[_Standards/WikiData/WD~Hay_on_Wye,174734]]"
-  - "[[_Standards/WikiData/WD~Kairouan,179570]]"
-  - "[[_Standards/WikiData/WD~Saintes,191126]]"
-  - "[[_Standards/WikiData/WD~Château_Chinon_(Ville),217187]]"
-  - "[[_Standards/WikiData/WD~Chemnitz,2795]]"
-  - "[[_Standards/WikiData/WD~Tempe,51685]]"
-significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Timbuktu_Region,339462]]"
-different_from: "[[_Standards/WikiData/WD~Timbuktu_Region,339462]]"
+  - "[[_Standards/WikiData/WD~Marrakesh,101625|WD~Marrakesh,101625]]"
+  - "[[_Standards/WikiData/WD~Hay_on_Wye,174734|WD~Hay_on_Wye,174734]]"
+  - "[[_Standards/WikiData/WD~Kairouan,179570|WD~Kairouan,179570]]"
+  - "[[_Standards/WikiData/WD~Saintes,191126|WD~Saintes,191126]]"
+  - "[[_Standards/WikiData/WD~Château_Chinon_(Ville),217187|WD~Château_Chinon_(Ville),217187]]"
+  - "[[_Standards/WikiData/WD~Chemnitz,2795|WD~Chemnitz,2795]]"
+  - "[[_Standards/WikiData/WD~Tempe,51685|WD~Tempe,51685]]"
+significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384|WD~list_of_World_Heritage_in_Danger,222384]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Timbuktu_Region,339462|WD~Timbuktu_Region,339462]]"
+different_from: "[[_Standards/WikiData/WD~Timbuktu_Region,339462|WD~Timbuktu_Region,339462]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983|WD~Atlas_of_Vanishing_Places,113243983]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403|WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~urban_area,702492]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-member_of: "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
-has_part_s_: "[[_Standards/WikiData/WD~Djinguereber_Mosque,2480949]]"
+  - "[[_Standards/WikiData/WD~urban_area,702492|WD~urban_area,702492]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+member_of: "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958|WD~Organization_of_World_Heritage_Cities,734958]]"
+has_part_s_: "[[_Standards/WikiData/WD~Djinguereber_Mosque,2480949|WD~Djinguereber_Mosque,2480949]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(v),23038979]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q27212083,27212083]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Told_Cities,109929866]]"
+  - "[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(v),23038979|WD~(v),23038979]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q27212083,27212083|WD~Q27212083,27212083]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Told_Cities,109929866|WD~Told_Cities,109929866]]"
 coordinate_location:
   - Point(-2.999443888 16.773333055)
   - Point(-3.00742 16.77348)
-country: "[[_Standards/WikiData/WD~Mali,912]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+country: "[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 elevation_above_sea_level: 261
-capital_of: "[[_Standards/WikiData/WD~Azawad,43937]]"
+capital_of: "[[_Standards/WikiData/WD~Azawad,43937|WD~Azawad,43937]]"
 population: 35330
 area: 14789
 Commons_gallery: Timbuktu
