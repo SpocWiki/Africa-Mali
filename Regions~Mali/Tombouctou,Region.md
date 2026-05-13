@@ -70,7 +70,7 @@ markerFile: [[Tombouctou,Region]]
 > This started the legend of a city in the interior of Africa, 
 > where roads were said to be paved with gold and buildings topped with roofs of gold.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tombouctou%20Region)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tombouctou%20Region) 
 
 
 ## Confidential Links & Embeds: 
